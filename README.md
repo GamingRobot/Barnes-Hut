@@ -1,7 +1,7 @@
-Barnes-Hut
+three-gravity
 ==========
 
-three.js implementation of a barnes-hut simulation
+three.js gravity particle simulation
 
 
 
